@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|c:\\users\\shashanktyagi\\documents\\unity\\ar superhero\\assets\\script\\circularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|c:\\users\\shashanktyagi\\documents\\unity\\ar superhero\\assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,28 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CircularRotation.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\CircularRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CircularRotation.cs",
+              "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\CircularRotation.cs",
+              "RelativeToolTip": "Assets\\Script\\CircularRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:04:15.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SuitEntryAnimation.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\SuitEntryAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SuitEntryAnimation.cs",
               "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\SuitEntryAnimation.cs",
               "RelativeToolTip": "Assets\\Script\\SuitEntryAnimation.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBUwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T15:59:03.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FadeOut.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FadeOut.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FadeOut.cs",
@@ -59,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlaceBottomRight.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\PlaceBottomRight.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlaceBottomRight.cs",
@@ -71,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FitBackground.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FitBackground.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FitBackground.cs",
