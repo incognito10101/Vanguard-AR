@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|c:\\users\\shashanktyagi\\documents\\unity\\ar superhero\\assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\placebottomright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\placebottomright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\fadeout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fadeout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\fitbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fitbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuitEntryAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\SuitEntryAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SuitEntryAnimation.cs",
+              "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\SuitEntryAnimation.cs",
+              "RelativeToolTip": "Assets\\Script\\SuitEntryAnimation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T15:59:03.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FadeOut.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FadeOut.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FadeOut.cs",
+              "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FadeOut.cs",
+              "RelativeToolTip": "Assets\\Script\\FadeOut.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T15:24:34.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaceBottomRight.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\PlaceBottomRight.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlaceBottomRight.cs",
+              "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\PlaceBottomRight.cs",
+              "RelativeToolTip": "Assets\\Script\\PlaceBottomRight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:35:40.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FitBackground.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FitBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FitBackground.cs",
+              "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FitBackground.cs",
+              "RelativeToolTip": "Assets\\Script\\FitBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:26:54.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
