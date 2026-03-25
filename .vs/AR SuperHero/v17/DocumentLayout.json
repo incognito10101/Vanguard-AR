@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|c:\\users\\shashanktyagi\\documents\\unity\\ar superhero\\assets\\script\\featurecardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|c:\\users\\shashanktyagi\\documents\\unity\\ar superhero\\assets\\script\\movingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\featurecardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\featurecardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|c:\\users\\shashanktyagi\\documents\\unity\\ar superhero\\assets\\script\\circularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\fitbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fitbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\placebottomright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fadeout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\fitbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fitbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\suitentryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\assets\\script\\circularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B8987E-EEE5-89A8-98D1-312D1416270C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\circularrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +47,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovingBar.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\MovingBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MovingBar.cs",
+              "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\MovingBar.cs",
+              "RelativeToolTip": "Assets\\Script\\MovingBar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:05:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIManager.cs",
+              "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:23:28.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FeatureCardUI.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FeatureCardUI.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FeatureCardUI.cs",
               "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FeatureCardUI.cs",
               "RelativeToolTip": "Assets\\Script\\FeatureCardUI.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA/wDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T15:03:30.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T15:03:30.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CircularRotation.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\CircularRotation.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CircularRotation.cs",
@@ -59,24 +91,23 @@
               "RelativeToolTip": "Assets\\Script\\CircularRotation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:04:15.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T11:04:15.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SuitEntryAnimation.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\SuitEntryAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SuitEntryAnimation.cs",
               "ToolTip": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\SuitEntryAnimation.cs",
               "RelativeToolTip": "Assets\\Script\\SuitEntryAnimation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAMBUwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T15:59:03.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FadeOut.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FadeOut.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FadeOut.cs",
@@ -88,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlaceBottomRight.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\PlaceBottomRight.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlaceBottomRight.cs",
@@ -100,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FitBackground.cs",
               "DocumentMoniker": "C:\\Users\\ShashankTyagi\\Documents\\Unity\\AR SuperHero\\Assets\\Script\\FitBackground.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FitBackground.cs",
